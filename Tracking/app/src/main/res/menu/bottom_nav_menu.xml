@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tracksFragmentList"
+        android:icon="@drawable/ic_run"
+        android:title="@string/your_routes" />
+
+    <item
+        android:id="@+id/trackingFragment"
+        android:icon="@drawable/ic_map"
+        android:title="@string/map" />
+
+</menu>

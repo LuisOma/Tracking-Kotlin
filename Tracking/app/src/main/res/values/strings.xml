@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tracking</string>
+    <string-array name="filter_options">
+        <item>Fecha</item>
+        <item>Distancia</item>
+    </string-array>
+    <string name="continue_label">Continuar</string>
+    <string name="sort_by">Ordenar por:</string>
+    <string name="time_placeholder">00:00:00:00</string>
+    <string name="finish">Terminar</string>
+    <string name="tracking_app">Tracking App</string>
+    <string name="detail_route">Detalle de la ruta</string>
+    <string name="start">Iniciar</string>
+    <string name="pause">Pausa</string>
+    <string name="resume">Continuar</string>
+    <string name="cancel_track">Cancelar</string>
+    <string name="distance_binding_format">%.2f km</string>
+    <string name="distance_binding_format_meters">%d m</string>
+    <string name="name_holder">NOMBRE</string>
+    <string name="distance_holder">DISTANCIA</string>
+    <string name="time_holder">TIEMPO</string>
+    <string name="track_snapshot">Imagen de la ruta</string>
+    <string name="changes_saved">Guardar los cambios</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="your_routes">Tus rutas</string>
+    <string name="map">Mapa</string>
+    <string name="error_must_be_provided">%s debe ser preevisto</string>
+    <string name="track_saved_successfully">La ruta se guardó satisfactoriamente</string>
+    <string name="location_permissions_required_info">Necesitas aceptar los permisos para poder usar la app.</string>
+    <string name="target">Objetivo</string>
+    <string name="progress_binding_format">%d %%</string>
+    <string name="choose_target">Escoge tu objetivo</string>
+    <string name="zero">0</string>
+    <string name="target_reached">¡Haz alcanzado el objetivo!</string>
+    <string name="track_deleted">La ruta ha sido eliminada</string>
+    <string name="undo">Undo</string>
+    <string name="track_restored">La ruta ha sido restaurada</string>
+</resources>
